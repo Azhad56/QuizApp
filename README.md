@@ -1,4 +1,4 @@
-# TheReality
+# Quiz App
 By Azhad Ghufran with the help and guidence of devashish sir 
 ## Technologies and tools used
 * HTML
